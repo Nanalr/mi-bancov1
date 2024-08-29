@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-color: darkred;
+    background-color: #001927;
     color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     width: 40%;
@@ -8,8 +8,8 @@ body {
 }
 
 .logo img {
-    height: 180px;
-    width: 180px;
+    height: 200px;
+    width: 200px;
 }
 
 .saldo {
